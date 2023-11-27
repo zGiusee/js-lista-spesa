@@ -18,7 +18,7 @@ let i = 0;
 
 // }
 
-// VERSIONE CON APPENCHILD
+// VERSIONE CON APPENDCHILD
 while(i < list.length){
 
     let li = document.createElement("li");
